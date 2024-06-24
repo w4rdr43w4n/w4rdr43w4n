@@ -12,6 +12,7 @@
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
 <h3 align="left">Know me better:</h3>
+<hr/>
 <p align="left">
 <a href="https://linkedin.com/in/ward raawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ward raawan" height="30" width="40" /></a>
 <a href="https://fb.com/ward rawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ward rawan" height="30" width="40" /></a>
