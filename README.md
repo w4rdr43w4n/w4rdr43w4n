@@ -62,6 +62,13 @@
     <a href="#gh-light-mode-only">
         <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFFFFF?style=flat-square&logo=amazonaws&logoColor=white">
     </a>
+     &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="AWS" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFFFFF?style=flat-square&logo=amazonaws&logoColor=white">
+    </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -85,9 +92,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
