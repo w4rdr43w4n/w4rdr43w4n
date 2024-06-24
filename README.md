@@ -48,7 +48,6 @@
 
 <p align="left">
   
-  <!-- Typescript -->
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript#gh-dark-mode-only">
@@ -56,8 +55,6 @@
     <a href="#gh-light-mode-only">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript#gh-light-mode-only">
     </a>
-    &emsp;
-  <!-- AWS -->
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-050505?style=flat-square&logo=amazonaws&logoColor=white">
