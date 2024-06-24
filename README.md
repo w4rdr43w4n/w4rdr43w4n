@@ -48,21 +48,20 @@
 
 <p align="left">
   
-    &emsp;
+   &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript#gh-dark-mode-only">
     </a>
     <a href="#gh-light-mode-only">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript#gh-light-mode-only">
     </a>
-    &emsp;
+  &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-050505?style=flat-square&logo=amazonaws&logoColor=white">
     </a>
     <a href="#gh-light-mode-only">
         <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFFFFF?style=flat-square&logo=amazonaws&logoColor=white">
     </a>
-    &emsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
