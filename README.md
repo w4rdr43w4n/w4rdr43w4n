@@ -49,10 +49,10 @@
 <p align="left">
   
    &emsp;
-    <a href="#gh-dark-mode-only">
+    <a>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript#gh-dark-mode-only">
     </a>
-  <a href="#gh-light-mode-only">
+  <a>
         <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900F?style=flat-square&logo=amazonaws&logoColor=white">
     </a>
   <a>
