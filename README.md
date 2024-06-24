@@ -37,12 +37,12 @@
 <br><br>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4rdr43w4n&theme=tokyonight" alt="mystreak"/>
-</p>
-<p align="center">
+  <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4rdr43w4n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+  <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=tokyonight&no-bg=true" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=tokyonight&no-bg=true" />
 <img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
 <h3 align="left">Like My Projects? Support me!</h3>
 <p><a href="https://www.buymeacoffee.com/wardRawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" /></a></p>
