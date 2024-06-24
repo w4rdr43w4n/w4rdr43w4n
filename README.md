@@ -9,9 +9,9 @@
 
 - 🌱 Currently learning **Competitive Algorithms, Assembly language and Linux system management**
 
-- 💬 Ask me about **Reactjs, J**
+- 💬 Ask me about **Web developement , DevOps and cloud management issues**
 
-- 📄 My Resume [https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
+- 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
