@@ -28,7 +28,7 @@
   </a>
   	
   <a href="https://dribbble.com/ward_r3" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribble" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribble" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/ward_r3" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ward_r3" height="30" width="40" />
