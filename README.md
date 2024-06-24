@@ -28,6 +28,6 @@
 <hr/>
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w4rdr43w4n&" alt="w4rdr43w4n" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=w4rdr43w4n&theme=tokyonight" alt="mystreak"/>
 <h3 align="left">Like My Projects? Support me!</h3>
 <p><a href="https://www.buymeacoffee.com/wardRawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" /></a></p>
