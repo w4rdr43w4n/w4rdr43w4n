@@ -29,6 +29,6 @@
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4rdr43w4n&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4rdr43w4na&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4rdr43w4n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 <h3 align="left">Like My Projects? Support me!</h3>
 <p><a href="https://www.buymeacoffee.com/wardRawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" /></a></p>
