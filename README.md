@@ -14,43 +14,47 @@
 <hr/>
 <h3 align="left">Know me better:</h3>
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ward-raawan-857260314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100079735433794&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+  <!-- GMail -->
   <a href="https://www.facebook.com/profile.php?id=100079735433794&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="GMail">
   </a>
+  <!-- Telegram -->
   <a href="https://www.facebook.com/profile.php?id=100079735433794&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=whitee" alt="Telegram">
   </a>
-  	
+  <!-- Dribble -->
   <a href="https://dribbble.com/ward_r3" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=whitee" alt="Dribble" />
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribble" />
   </a>
-  <a href="https://www.codechef.com/users/ward_r3" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ward_r3" height="30" width="40" />
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/ward_r3" target="_blank">
+    <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ward_r3"  />
   </a>
-  <a href="https://www.hackerrank.com/wardrawan535" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wardrawan535" height="30" width="40" />
+  <!-- Hackerrrank -->
+  <a href="https://www.hackerrank.com/profile/wardrawan535" target="_blank">
+    <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="wardrawan535"  />
   </a>
+  <!-- CodeForces -->
   <a href="https://codeforces.com/profile/iwxwi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iwxwi" height="30" width="40" />
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iwxwi" />
   </a>
+  <!-- LeetCode -->
   <a href="https://www.leetcode.com/ward_r3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ward_r3" height="30" width="40" />
+    <img  src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ward_r3"  />
   </a>
 </p>
 <hr/>
 <h3 align="left">Languages and Tools I Use:</h3>
 
 <p align="left">
-  <!-- TypeScript -->
-
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
-
 <!-- AWS -->
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900F?style=for-the-badge&logo=amazonaws&logoColor=white">
 <!-- Postrgresql -->
@@ -75,15 +79,18 @@
   <img alt="Vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <!-- C++ -->
   <img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
- 
-
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
+<!-- TS -->
+  <img alt="JS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+<!-- Python -->
+  <img alt="JS" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
+<!-- Prisma -->
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> 
+<!-- Debian -->
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> 
+<!-- RedHat -->
+  <img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"> 
+<!-- Arch -->
+  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
 </p>
 <hr/>
 <br><br>
