@@ -37,17 +37,13 @@
 <hr/>
 <h3 align="left">Check up my skills 💪</h3>
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/ward_r3" target="_blank">
-    <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ward_r3"  />
-  </a>
+ 
   <!-- Hackerrrank -->
   <a href="https://www.hackerrank.com/profile/wardrawan535" target="_blank">
     <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="wardrawan535"  />
   </a>
   <!-- CodeForces -->
-  <a href="https://codeforces.com/profile/iwxwi" target="blank">
-    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iwxwi" />
-  </a>
+ 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/ward_r3" target="blank">
     <img  src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ward_r3"  />
