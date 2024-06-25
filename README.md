@@ -49,23 +49,23 @@
 <p align="left">
   <!-- TypeScript -->
   <a>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript#gh-dark-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
   </a>
   <!-- AWS -->
   <a>
-        <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900F?style=flat-square&logo=amazonaws&logoColor=white">
+        <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900F?style=for-the-badge&logo=amazonaws&logoColor=white">
   </a>
   <!-- Postrgresql -->
   <a>
-      <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+      <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   <!-- Django -->
   <a>
-      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   </a>
    <!-- Express -->
   <a>
-      <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white">
+      <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   </a>
    <!-- NextJS -->
    <a>
