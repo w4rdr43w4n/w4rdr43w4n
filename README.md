@@ -37,7 +37,8 @@
 <hr/>
 <h3 align="left">Check up my skills 💪</h3>
   <!-- CodeChef -->
- [![Badge](https://cp-logo.vercel.app/codechef/codechef_username)](https://www.codechef.com/users/ward_r3)
+[![Badge](https://cp-logo.vercel.app/codechef/codechef_username)]
+(https://www.codechef.com/users/codechef_username)
   <!-- Hackerrrank -->
   <a href="https://www.hackerrank.com/profile/wardrawan535" target="_blank">
     <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="wardrawan535"  />
