@@ -46,7 +46,7 @@
   <!-- CodeForces -->
  
   <!-- LeetCode -->
-  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ward_r3)
+ <p> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ward_r3)</p>
 <hr/>
 <h3 align="left">My ToolBox 🧰</h3>
 
