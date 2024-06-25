@@ -12,11 +12,11 @@
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
 <hr/>
-<h3 align="left">Know me better:</h3>
+<h3 align="left">Know me better 🧑🏻‍💻</h3>
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ward-raawan-857260314" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100079735433794&mibextid=ZbWKwL" target="_blank">
@@ -34,6 +34,8 @@
   <a href="https://dribbble.com/ward_r3" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribble" />
   </a>
+<hr/>
+<h3 align="left">Check up my skills 💪</h3>
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/ward_r3" target="_blank">
     <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ward_r3"  />
@@ -52,7 +54,7 @@
   </a>
 </p>
 <hr/>
-<h3 align="left">My ToolBox 🧰:</h3>
+<h3 align="left">My ToolBox 🧰</h3>
 
 <p align="left">
 <!-- AWS -->
