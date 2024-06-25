@@ -34,6 +34,7 @@
   <a href="https://dribbble.com/ward_r3" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribble" />
   </a>
+</p>
 <hr/>
 <h3 align="left">Check up my skills 💪</h3>
   <!-- CodeChef -->
@@ -45,11 +46,7 @@
   <!-- CodeForces -->
  
   <!-- LeetCode -->
-  <a href="https://www.leetcode.com/ward_r3" target="blank">
-    <img  src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ward_r3"  />
-  </a>
   [![LeetCode user ward_r3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/cascandaliato/)
-</p>
 <hr/>
 <h3 align="left">My ToolBox 🧰</h3>
 
