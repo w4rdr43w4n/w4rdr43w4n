@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="GMail">
   </a>
   <!-- Telegram -->
-  <a href="https://www.facebook.com/profile.php?id=100079735433794&mibextid=ZbWKwL" target="_blank">
+  <a href="https://t.me/WHEXEHWz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=whitee" alt="Telegram">
   </a>
   <!-- Dribble -->
@@ -38,8 +38,8 @@
 </p>
 
 ## Check up my skills 💪
-  ![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)
+  [![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)](https://leetcode.com/u/ward_r3/)
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)](https://codeforces.com/profile/IwxwI)
 
  
 <!-- Alternative leetcoden badge -->
@@ -100,7 +100,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
 </a>
 <img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
-<br/>
+<br><br>
 
 ## Like My Projects? Support me!
   <a href="https://www.buymeacoffee.com/wardRawan"> 
