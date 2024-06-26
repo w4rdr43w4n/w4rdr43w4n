@@ -11,6 +11,7 @@
 
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
+[Send me an email](mailto:wardrawan535@gmail.com)
 
 ## Know me better 🧑🏻‍💻
 <p align="left">
