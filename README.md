@@ -16,7 +16,7 @@
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
 
-## Know me better 🧑🏻‍💻
+## Know Me Better 🧑🏻‍💻
 
 <p align="left">
   <!-- LinkedIn -->
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-## Check up my skills 💪
+## Check Up My Skills 💪
   [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)](https://codeforces.com/profile/IwxwI)
   [![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyo-night)](https://leetcode.com/u/ward_r3/)
 
