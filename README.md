@@ -11,9 +11,9 @@
 
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
-[Send me an email](mailto:wardrawan535@gmail.com)
 
 ## Know me better 🧑🏻‍💻
+[Send me an email](mailto:wardrawan535@gmail.com)
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ward-raawan-857260314" target="_blank">
