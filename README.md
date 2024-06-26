@@ -41,13 +41,7 @@
   ![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
-</a>
-
+ 
 <!-- Alternative leetcoden badge -->
 <!--
   [![LeetCode user ward_r3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fward_r3&logo=leetcode&logoColor=yellow)](https://leetcode.com/ward_r3/)
@@ -98,16 +92,14 @@
 </p>
 
 ## My Github Activity 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&count_private=true&show_icons=true&hide=contribs&theme=tokyonight" alt="Overall Stats" height="150" width="500">
-<img src="https://streak-stats.demolab.com?user=w4rdr43w4n&theme=tokyonight" alt="GitHub Streak Stats" height="150" width="500">
-</p>  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4rdr43w4n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" height="150" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=tokyonight&no-bg=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
+</a>
 
 <img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
-<h3 align="left">Like My Projects? Support me!</h3>
+## Like My Projects? Support me!
 <p><a href="https://www.buymeacoffee.com/wardRawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" /></a></p>
