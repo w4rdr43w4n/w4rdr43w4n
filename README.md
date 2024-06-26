@@ -95,10 +95,13 @@
 <a href="https://github.com/w4rdr43w4n">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/w4rdr43w4n">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
+<p align="center">
+  <a  href="https://github.com/w4rdr43w4n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
 </a>
-<br><br>
+</p>
+
+
 [![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w4rdr43w4n&theme=github-compact)](https://github.com/w4rdr43w4n)
 <br><br>
 
