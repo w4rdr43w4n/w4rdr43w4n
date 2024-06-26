@@ -99,7 +99,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
 </a>
-
 <img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
+<br/>
+
 ## Like My Projects? Support me!
-<p><a href="https://www.buymeacoffee.com/wardRawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" /></a></p>
+  <a href="https://www.buymeacoffee.com/wardRawan"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" />
+  </a>
