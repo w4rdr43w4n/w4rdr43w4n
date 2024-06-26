@@ -35,21 +35,11 @@
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribble" />
   </a>
 </p>
-<hr/>
-<h3 align="left">Check up my skills 💪</h3>
-  <!-- CodeChef -->
-[![Badge](https://cp-logo.vercel.app/codechef/ward_r3)](https://www.codechef.com/users/ward_r3)
-  <!-- Hackerrrank -->
-  <a href="https://www.hackerrank.com/profile/wardrawan535" target="_blank">
-    <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="wardrawan535"  />
-  </a>
-  <!-- CodeForces -->
- 
-  <!-- LeetCode -->
- <<img src="https://leetcode-badge-showcase.vercel.app/api?username=ward_r3&filter=comp&theme=dark" alt="LeetCode Badges"/>
-<hr/>
-<h3 align="left">My ToolBox 🧰</h3>
 
+## Check up my skills 💪
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)
+  [![LeetCode user ward_r3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fward_r3&logo=leetcode&logoColor=yellow)](https://leetcode.com/ward_r3/)
+## My ToolBox 🧰
 <p align="left">
 <!-- AWS -->
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900F?style=for-the-badge&logo=amazonaws&logoColor=white">
