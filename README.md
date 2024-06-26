@@ -98,9 +98,8 @@
 <a href="https://github.com/w4rdr43w4n">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
 </a>
-<img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
 <br><br>
-[![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w4rdr43w4n&theme=dracula)](https://github.com/w4rdr43w4n)
+[![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w4rdr43w4n&theme=github-compact)](https://github.com/w4rdr43w4n)
 <br><br>
 
 ## Like My Projects? Support me!
