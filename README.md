@@ -88,17 +88,17 @@
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 <!-- Github Actions -->
   <img alt="GitActions" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"> 
-
 </p>
+
 ## My Github Activity 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&count_private=true&show_icons=true&hide=contribs)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&count_private=true&show_icons=true&hide=contribs&theme=tokyonight" alt="Overall Stats" height="150" width="500">
+<img src="https://streak-stats.demolab.com?user=w4rdr43w4n&theme=tokyonight" alt="GitHub Streak Stats" height="150" width="500">
+</p>  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=w4rdr43w4n&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4rdr43w4n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" height="150" />
   <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4rdr43w4n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
-  <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=tokyonight&no-bg=true" />
-  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=tokyonight&no-bg=true" />
 </p>
 
 <img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
