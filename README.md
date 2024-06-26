@@ -13,7 +13,7 @@
 
 
 ## Know me better 🧑🏻‍💻
-[Send me an email](mailto:wardrawan535@gmail.com)
+
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ward-raawan-857260314" target="_blank">
@@ -41,7 +41,13 @@
   ![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)
 
- 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
+</a>
+
 <!-- Alternative leetcoden badge -->
 <!--
   [![LeetCode user ward_r3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fward_r3&logo=leetcode&logoColor=yellow)](https://leetcode.com/ward_r3/)
