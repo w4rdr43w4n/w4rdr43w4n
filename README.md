@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ward</h1>
+<h1 align="center">Hi, I'm Ward 👋</h1>
 <h3 align="center">A Full-Stack Developer with DevOps Specialization</h3>
 
 <p align="left"> 
@@ -42,8 +42,8 @@
 </p>
 
 ## Check up my skills 💪
-  [![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)](https://leetcode.com/u/ward_r3/)
   [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)](https://codeforces.com/profile/IwxwI)
+  [![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyo-night)](https://leetcode.com/u/ward_r3/)
 
 ## My ToolBox 🧰
 <p align="left">
