@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Ward</h1>
 <h3 align="center">A Full-Stack Developer with DevOps Specialization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w4rdr43w4n&label=Profile%20views&color=ff8234&style=flat" alt="w4rdr43w4n" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=w4rdr43w4n&label=Profile%20views&color=ff8234&style=flat" alt="w4rdr43w4n" /> 
+  <img alt="followers" src="https://img.shields.io/github/followers/w4rdr43w4n?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/w4rdr43w4n?label=Stars" alt="stars">
+</p>
 
 - 🔭 I’m currently working on [G6 Research Platform](https://github.com/w4rdr43w4n/G6Latest)
 
@@ -41,11 +45,6 @@
   [![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)](https://leetcode.com/u/ward_r3/)
   [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)](https://codeforces.com/profile/IwxwI)
 
- 
-<!-- Alternative leetcoden badge -->
-<!--
-  [![LeetCode user ward_r3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fward_r3&logo=leetcode&logoColor=yellow)](https://leetcode.com/ward_r3/)
--->
 ## My ToolBox 🧰
 <p align="left">
 <!-- AWS -->
@@ -93,16 +92,18 @@
 
 ## My Github Activity 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical)](https://git.io/streak-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/w4rdr43w4n">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/w4rdr43w4n">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
 </a>
 <img src="https://widgetbite.com/stats/w4rdr43w4n" alt="watching_count" />
 <br><br>
+[![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w4rdr43w4n&theme=dracula)](https://github.com/w4rdr43w4n)
+<br><br>
 
 ## Like My Projects? Support me!
-  <a href="https://www.buymeacoffee.com/wardRawan"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" />
-  </a>
+<a href="https://www.buymeacoffee.com/wardRawan"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" />
+</a>
