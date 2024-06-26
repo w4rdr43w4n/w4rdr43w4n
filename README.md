@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <!-- GMail -->
-  <a href="https://www.facebook.com/profile.php?id=100079735433794&mibextid=ZbWKwL" target="_blank">
+  <a href="mailto:wardrawan535@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="GMail">
   </a>
   <!-- Telegram -->
