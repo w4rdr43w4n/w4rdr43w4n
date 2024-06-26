@@ -11,8 +11,8 @@
 
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
-<hr/>
-<h3 align="left">Know me better 🧑🏻‍💻</h3>
+
+## Know me better 🧑🏻‍💻
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ward-raawan-857260314" target="_blank">
@@ -37,8 +37,14 @@
 </p>
 
 ## Check up my skills 💪
+  ![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyonight)
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)
+
+ 
+<!-- Alternative leetcoden badge -->
+<!--
   [![LeetCode user ward_r3](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fward_r3&logo=leetcode&logoColor=yellow)](https://leetcode.com/ward_r3/)
+-->
 ## My ToolBox 🧰
 <p align="left">
 <!-- AWS -->
@@ -84,8 +90,8 @@
   <img alt="GitActions" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"> 
 
 </p>
-<hr/>
-<br><br>
+## My Github Activity 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&count_private=true&show_icons=true&hide=contribs)
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4rdr43w4n&theme=tokyonight" alt="mystreak"/>
   <br><br>
