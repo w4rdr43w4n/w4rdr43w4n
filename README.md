@@ -90,7 +90,7 @@
   <img alt="GitActions" src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe"> 
 </p>
 
-## My Github Activity 
+## My Github Activity 📊
 [![GitHub Streak](https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical)](https://git.io/streak-stats)
 <a href="https://github.com/w4rdr43w4n">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
