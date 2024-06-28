@@ -42,8 +42,20 @@
 </p>
 
 ## Check Up My Skills 💪
-  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight)](https://codeforces.com/profile/IwxwI)
-  [![Your LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyo-night)](https://leetcode.com/u/ward_r3/)
+<table>
+  <tr>
+    <td>
+      <a href="https://codeforces.com/profile/IwxwI" target="_blank">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=IwxwI&theme=tokyonight" alt="ward_codeforces_stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/ward_r3/" target="_blank">
+        <img src="https://leetcode-badge-sage.vercel.app/badge/ward_r3?theme=tokyo-night" alt="ward_leetcode_stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My ToolBox 🧰
 <p align="left">
@@ -94,29 +106,32 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" alt="Most Used Languages"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" alt="Account Status"></td>
-    <td><img src="https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical" alt="GitHub Streak"></td>
+    <td>
+      <a href="https://github.com/w4rdr43w4n">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" alt="Most Used Languages">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/w4rdr43w4n">
+        <img src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" alt="Account Status">
+      </a>
+    </td>
+    <td>
+     <a href="https://github.com/w4rdr43w4n">
+       <img src="https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical" alt="GitHub Streak">
+     </a>
+    </td>
   </tr>
 </table>
 
-
-<!--
-[![GitHub Streak]()](https://git.io/streak-stats)
-<a href="https://github.com/w4rdr43w4n">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
-</a>
 <p align="center">
-  <a  href="https://github.com/w4rdr43w4n">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" />
+  <a href="https://github.com/w4rdr43w4n">
+    <img src="https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=radical" alt="github_trophies" />
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=radical)](https://github.com/w4rdr43w4n)
-
 [![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w4rdr43w4n&theme=github-compact)](https://github.com/w4rdr43w4n)
 <br><br>
--->
 ## Like My Projects? Support me!
 <a href="https://www.buymeacoffee.com/wardRawan"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" />
