@@ -91,7 +91,18 @@
 </p>
 
 ## My Github Activity 📊
-[![GitHub Streak](https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical)](https://git.io/streak-stats)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4rdr43w4n&layout=compact&theme=radical" alt="Most Used Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" alt="Account Status"></td>
+    <td><img src="https://streak-stats.demolab.com/?user=w4rdr43w4n&theme=radical" alt="GitHub Streak"></td>
+  </tr>
+</table>
+
+
+<!--
+[![GitHub Streak]()](https://git.io/streak-stats)
 <a href="https://github.com/w4rdr43w4n">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=w4rdr43w4n&show_icons=true&theme=radical" />
 </a>
@@ -101,10 +112,11 @@
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=w4rdr43w4n&theme=radical)](https://github.com/w4rdr43w4n)
 
 [![Ward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w4rdr43w4n&theme=github-compact)](https://github.com/w4rdr43w4n)
 <br><br>
-
+-->
 ## Like My Projects? Support me!
 <a href="https://www.buymeacoffee.com/wardRawan"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wardRawan" />
