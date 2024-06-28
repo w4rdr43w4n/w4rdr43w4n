@@ -2,9 +2,15 @@
 <h3 align="center">A Full-Stack Developer with DevOps Specialization</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=w4rdr43w4n&label=Profile%20views&color=ff8234&style=flat" alt="w4rdr43w4n" /> 
-  <img alt="followers" src="https://img.shields.io/github/followers/w4rdr43w4n?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/w4rdr43w4n?label=Stars" alt="stars">
+  <a href="https://github.com/w4rdr43w4n" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=w4rdr43w4n&label=Profile%20views&color=ff8234&style=flat" alt="w4rdr43w4n" /> 
+  </a> 
+  <a href="https://github.com/w4rdr43w4n?tab=followers" target="_blank">
+    <img alt="followers" src="https://img.shields.io/github/followers/w4rdr43w4n?label=Followers&style=social">
+  </a>
+  <a href="https://github.com/w4rdr43w4n?tab=stars" target="_blank"> 
+    <img src="https://img.shields.io/github/stars/w4rdr43w4n?label=Stars" alt="stars" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on [G6 Research Platform](https://github.com/w4rdr43w4n/G6Latest)
