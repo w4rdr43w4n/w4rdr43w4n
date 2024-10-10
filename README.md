@@ -17,7 +17,7 @@
 
 - 🌱 Currently learning **Competitive Algorithms, Assembly language and Linux system management**
 
-- 💬 Ask me about **Web developement , DevOps and cloud management issues**
+- 💬 Ask me about **Web developement , DevOps and Cloud Management issues**
 
 - 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
 
