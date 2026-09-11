@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Web developement , DevOps and Cloud Management issues**
 
-- 📄 My Resume [Here](https://drive.google.com/file/d/1HjNSyAanv3l5reKfXd1IBjPQgQ9V3kAl/view?usp=drive_link)
+- 📄 My Resume [Here](https://www.google.com)
 
 
 ## Know Me Better 🧑🏻‍💻
